@@ -55,8 +55,8 @@ while True:
 page = input("\nEste programa fue creado usando Python, ¿Desea ver el codigo fuente de este juego? (s/n): ").lower()
 
 if page == "s":
-	webbrowser.open_new_tab("https://github.com/Arturo-sh/rock_paper_scissors_game.git")
+	webbrowser.open_new_tab("https://github.com/Arturo-sh/rock_paper_scissors_game/blob/main/rock_paper_scissors_game.py")
 	print("\nGracias por usar este sotfware :)")
 else:
 	print("\nGracias por usar este sotfware :)")
-	input('Presione Enter para continuar......')
+	input('Presione Enter para continuar....')
